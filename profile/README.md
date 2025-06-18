@@ -11,7 +11,7 @@
 
 ## 🌌 Scope & Motivation
 
-**SPACERG** investigates systems and protocols for **aerospace networks** — including satellites (LEO/MEO/GEO), HAPS, drones, and cislunar platforms. These environments pose unique challenges such as:
+**SPACERG** investigates systems and protocols for **aerospace networks** — including satellites (LEO/MEO/GEO), HAPS, drones, and cislunar platforms. These environments pose unique challenges, such as:
 
 - High-speed mobility and dynamic topologies  
 - Harsh constraints on energy, computation, and bandwidth  
@@ -19,6 +19,17 @@
 - Sustainability, lifecycle limitations, and global externalities
 
 We aim to bridge the gap between siloed research and real-world, interoperable networking.
+
+---
+
+## 👥 Organizers
+
+- **Chairs**  
+  - Juan A. Fraire (INRIA) – [juan.fraire@inria.fr](mailto:juan.fraire@inria.fr)  
+  - Jörg Ott (TUM) – [ott@in.tum.de](mailto:ott@in.tum.de)
+
+- **Collaborators**  
+  - Nishant Sastry (University of Surrey) – [n.sastry@surrey.ac.uk](mailto:n.sastry@surrey.ac.uk)
 
 ---
 
