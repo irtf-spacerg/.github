@@ -29,7 +29,7 @@ We aim to bridge the gap between siloed research and real-world, interoperable n
   - Jörg Ott (TUM) – [ott@in.tum.de](mailto:ott@in.tum.de)
 
 - **Collaborators**  
-  - Nishant Sastry (University of Surrey) – [n.sastry@surrey.ac.uk](mailto:n.sastry@surrey.ac.uk)
+  - Nishanth Sastry (University of Surrey) – [n.sastry@surrey.ac.uk](mailto:n.sastry@surrey.ac.uk)
 
 ---
 
