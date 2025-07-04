@@ -5,6 +5,7 @@
 # IRTF SPACERG  
 **Systems and Protocol Aspects for Circumstellar Environments Research Group**
 
+> To-be proposed research group.
 > Exploring architecture and protocol challenges for the next generation of aerospace networks.
 
 ---
