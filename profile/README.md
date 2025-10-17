@@ -5,14 +5,14 @@
 # IRTF SPACERG  
 **Systems and Protocol Aspects for Circumstellar Environments Research Group**
 
-> To-be proposed research group.
+> Proposed research group.
 > Exploring architecture and protocol challenges for the next generation of aerospace networks.
 
 ---
 
 ## 🌌 Scope & Motivation
 
-**SPACERG** investigates systems and protocols for **aerospace networks** — including satellites (LEO/MEO/GEO), HAPS, drones, and cislunar platforms. These environments pose unique challenges, such as:
+**SPACERG** investigates systems and protocols for **aerospace networks** — including satellites (LEO/MEO/GEO) and cislunar platforms. These environments pose unique challenges, such as:
 
 - High-speed mobility and dynamic topologies  
 - Harsh constraints on energy, computation, and bandwidth  
